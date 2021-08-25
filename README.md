@@ -1,6 +1,6 @@
 # capstone-international-
 
-<h3> 1. SP!ED2021 를 위한 프로젝트 </h3>
+<h3> 1. 국제캡스톤 SP!ED2021 를 위한 프로젝트 </h3>
   
 
   <ol>pip install opencv-python<br></ol>
